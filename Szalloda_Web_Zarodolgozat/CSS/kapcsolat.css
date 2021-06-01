@@ -1,0 +1,18 @@
+*{
+    font-size: 16px;
+}
+.jumbotron{
+    background-color: blanchedalmond;
+    
+}
+.navbar{
+    background-color: crimson;
+    
+    
+}
+body{
+    background-color: rgba(255, 235, 205, 0.445);
+}
+span{
+    color: white;
+}

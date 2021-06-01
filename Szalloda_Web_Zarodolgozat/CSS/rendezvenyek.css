@@ -1,0 +1,29 @@
+*{
+    font-size: 16px;
+}
+.jumbotron{
+    background-color: blanchedalmond;
+    
+}
+.navbar{
+    background-color: crimson;
+    
+    
+}
+body{
+    background-color: rgba(255, 235, 205, 0.445);
+}
+.lenyiloCim{
+    font-weight: bold;
+    
+}
+.udvozlo{
+    text-align: center;
+    margin: 5px;
+}
+.panel-body{
+    background-color: blanchedalmond;
+}
+span{
+    color: white;
+}
